@@ -1,0 +1,5 @@
+dist: xenial
+
+language: bash
+
+script: example-arch.sh
